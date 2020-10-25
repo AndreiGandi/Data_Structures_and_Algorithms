@@ -70,9 +70,9 @@ namespace Queue
 
         public void DisplayQueue()
         {
-            for(int i = 0; i<items; i++)
+            for(int i = 0; i<people.Length; i++)
             {
-                Console.WriteLine($"Data: {rear}");
+                Console.WriteLine($"[{people[i]}]");
             }
             Console.WriteLine();
         }

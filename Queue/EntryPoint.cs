@@ -10,14 +10,22 @@ namespace Queue
     {
         static void Main(string[] args)
         {
-            Queue orderNo = new Queue(5);
-            orderNo.Insert("Andrei");
-            orderNo.Insert("John");
-            orderNo.Insert("Marry");
-            orderNo.Insert("Jack");
-            orderNo.Insert("Ivan");
+            Queue Person = new Queue(5);
+            Person.Insert("Andrei");
+            Person.Insert("John");
+            Person.Insert("Marry");
+            Person.Insert("Jack");
+            Person.Insert("Ivan");
 
-            orderNo.DisplayQueue();
+            //Person.DisplayQueue();
+
+            //Person.Insert("Roberto"); //the Queue is Full
+            Console.WriteLine(Person.PeekFront());
+            Person.Remove();
+
+            Person.DisplayQueue();
+
+
         }
     }
 }
