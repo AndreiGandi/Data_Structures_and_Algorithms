@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglyLinkedList", "SinglyLinkedList\SinglyLinkedList.csproj", "{66E9CFDA-5B4B-444C-BF90-A93432D7E1FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{EB43DBD1-1EDE-48BC-81AB-DFD189012A48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +21,17 @@ Global
 		{66E9CFDA-5B4B-444C-BF90-A93432D7E1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66E9CFDA-5B4B-444C-BF90-A93432D7E1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66E9CFDA-5B4B-444C-BF90-A93432D7E1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB43DBD1-1EDE-48BC-81AB-DFD189012A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB43DBD1-1EDE-48BC-81AB-DFD189012A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB43DBD1-1EDE-48BC-81AB-DFD189012A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB43DBD1-1EDE-48BC-81AB-DFD189012A48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{66E9CFDA-5B4B-444C-BF90-A93432D7E1FB} = {528A9707-A7ED-4384-84D7-F0E2C1C3C48B}
+		{EB43DBD1-1EDE-48BC-81AB-DFD189012A48} = {528A9707-A7ED-4384-84D7-F0E2C1C3C48B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A00CBFB-5542-466B-8510-7EDE306CC17A}
