@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollatzConjecture", "Collat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isogram", "Isogram\Isogram.csproj", "{1785C166-F2FB-44C3-8F3B-603021DBC0D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acronym", "Acronim\Acronym.csproj", "{5280AFB2-5A39-4787-A174-2EFD09875660}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{1785C166-F2FB-44C3-8F3B-603021DBC0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1785C166-F2FB-44C3-8F3B-603021DBC0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1785C166-F2FB-44C3-8F3B-603021DBC0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5280AFB2-5A39-4787-A174-2EFD09875660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5280AFB2-5A39-4787-A174-2EFD09875660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5280AFB2-5A39-4787-A174-2EFD09875660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5280AFB2-5A39-4787-A174-2EFD09875660}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +124,7 @@ Global
 		{EE2BE35B-4D5E-4A55-A039-DF8DD612AE81} = {94C8C4C5-4F09-4F34-A09E-125B13E848CF}
 		{4BAC0926-F292-49C7-B6EC-29A4AC810D98} = {94C8C4C5-4F09-4F34-A09E-125B13E848CF}
 		{1785C166-F2FB-44C3-8F3B-603021DBC0D0} = {94C8C4C5-4F09-4F34-A09E-125B13E848CF}
+		{5280AFB2-5A39-4787-A174-2EFD09875660} = {94C8C4C5-4F09-4F34-A09E-125B13E848CF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A00CBFB-5542-466B-8510-7EDE306CC17A}
