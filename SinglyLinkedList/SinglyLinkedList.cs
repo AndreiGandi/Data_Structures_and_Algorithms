@@ -79,7 +79,7 @@ namespace SinglyLinkedList
             return previousNode;
         }
 
-        public void DeleteNodeByKey(SinglyLinkedList singlyList, int key)
+        public void DeleteNodeBykey(SinglyLinkedList singlyList, int key)
         {
             Node temp = singlyList.First;
             Node previousNode = null;

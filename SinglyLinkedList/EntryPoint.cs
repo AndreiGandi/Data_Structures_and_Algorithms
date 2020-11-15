@@ -19,7 +19,7 @@ namespace SinglyLinkedList
             sli.InsertAfternode(GetNodeByData(sli, 5), 20);
             sli.InsertLast(6);
             sli.DeleteFirst();
-            sli.DeleteNodeByKey(sli, 6);
+            sli.DeleteNodeBykey(sli, 6);
             sli.DeleteLast();
 
             sli.DisplayList();
