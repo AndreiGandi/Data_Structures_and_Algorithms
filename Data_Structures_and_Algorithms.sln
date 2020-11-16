@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3 Largest prime fac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4 Largest palindrome product", "Problem 4 Largest palindrome product\Problem 4 Largest palindrome product.csproj", "{7D5885EA-4279-4603-B1C1-6D7D59298032}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5 Smallest multiple", "Problem 5 Smallest multiple\Problem 5 Smallest multiple.csproj", "{FA719106-D4FC-4A87-BAD8-9E3B5EE102B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -193,6 +195,10 @@ Global
 		{7D5885EA-4279-4603-B1C1-6D7D59298032}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D5885EA-4279-4603-B1C1-6D7D59298032}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D5885EA-4279-4603-B1C1-6D7D59298032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA719106-D4FC-4A87-BAD8-9E3B5EE102B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA719106-D4FC-4A87-BAD8-9E3B5EE102B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA719106-D4FC-4A87-BAD8-9E3B5EE102B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA719106-D4FC-4A87-BAD8-9E3B5EE102B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -228,6 +234,7 @@ Global
 		{D9B10A75-CC74-44CD-827F-BCC1DAE1515C} = {98453094-26C1-455B-BAFA-76930F3055A4}
 		{D6587B10-B017-4B16-A481-EF59C27FDAB3} = {98453094-26C1-455B-BAFA-76930F3055A4}
 		{7D5885EA-4279-4603-B1C1-6D7D59298032} = {98453094-26C1-455B-BAFA-76930F3055A4}
+		{FA719106-D4FC-4A87-BAD8-9E3B5EE102B2} = {98453094-26C1-455B-BAFA-76930F3055A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A00CBFB-5542-466B-8510-7EDE306CC17A}
