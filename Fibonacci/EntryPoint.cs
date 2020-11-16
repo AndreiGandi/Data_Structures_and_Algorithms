@@ -11,7 +11,7 @@ namespace Fibonacci
         //Fibonacci : 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144
         static void Main(string[] args)
         {
-            int nr = 3;
+            int nr = 10;
             Console.WriteLine($"Firsts {nr} elements of Fibonacci's serie\n");
             Console.WriteLine("*************************Iterative methods*************************");
             Console.WriteLine(Fibonacci(nr));
