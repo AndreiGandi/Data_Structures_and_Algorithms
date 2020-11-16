@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6 Sum square differ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7 10001st prime", "Problem 7 10001st prime\Problem 7 10001st prime.csproj", "{654A03FE-5486-40A1-BF89-F04BCF71F046}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 9 Special Pythagorean triplet", "Problem 9 Special Pythagorean triplet\Problem 9 Special Pythagorean triplet.csproj", "{8AF98DE2-3C1D-4085-92C9-5673EF6F0F6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -211,6 +213,10 @@ Global
 		{654A03FE-5486-40A1-BF89-F04BCF71F046}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{654A03FE-5486-40A1-BF89-F04BCF71F046}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{654A03FE-5486-40A1-BF89-F04BCF71F046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF98DE2-3C1D-4085-92C9-5673EF6F0F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF98DE2-3C1D-4085-92C9-5673EF6F0F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF98DE2-3C1D-4085-92C9-5673EF6F0F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF98DE2-3C1D-4085-92C9-5673EF6F0F6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -249,6 +255,7 @@ Global
 		{FA719106-D4FC-4A87-BAD8-9E3B5EE102B2} = {98453094-26C1-455B-BAFA-76930F3055A4}
 		{558CAE08-EC5B-49E9-B102-E15CCB043DCC} = {98453094-26C1-455B-BAFA-76930F3055A4}
 		{654A03FE-5486-40A1-BF89-F04BCF71F046} = {98453094-26C1-455B-BAFA-76930F3055A4}
+		{8AF98DE2-3C1D-4085-92C9-5673EF6F0F6F} = {98453094-26C1-455B-BAFA-76930F3055A4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A00CBFB-5542-466B-8510-7EDE306CC17A}
